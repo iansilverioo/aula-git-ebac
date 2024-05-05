@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Ian Silvério
+-Profissão: Vendedor
+-Cidade: Barueri
+-O que faz nas horas vaga: Estudo, jogo ou assisto série
+-Feedback sobre o curso Qualidade de Software: Aulas excelentes, e bem explicativas
+-Feedback sobre a plataforma de estudo da EBAC: Simples e intuitiva como deve ser
 
 Obrigado!!!
 
